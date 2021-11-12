@@ -1,0 +1,22 @@
+[Violation] Forced reflow while executing JavaScript took 36ms
+document.getElementById('hello').textContent = 'Hello, Console!'
+'Hello, Console!'
+5+15
+20
+function add(a, b=20) {
+  return a + b;
+}
+
+undefined
+add(25)
+45
+debug(function)
+VM379:1 Uncaught SyntaxError: Unexpected token ')'
+keys(Object)
+[]
+debug(add)
+undefined
+debug(add(25))
+undefined
+keys({"abc":"data"})
+['abc']

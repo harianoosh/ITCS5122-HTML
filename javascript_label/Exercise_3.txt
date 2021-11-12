@@ -1,0 +1,2 @@
+Chrome browser: JS is interpreted
+Mozilla Firefox: JS is interpreted

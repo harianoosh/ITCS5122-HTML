@@ -1,0 +1,6 @@
+log.js:68 GET https://devtools.glitch.me/coffee 404
+(anonymous) @ log.js:68
+log.js:56 Uncaught TypeError: Cannot set properties of null (setting 'textContent')
+    at HTMLButtonElement.<anonymous> (log.js:56)
+(anonymous) @ log.js:56
+log.js:59 [Violation] 'click' handler took 3000ms
